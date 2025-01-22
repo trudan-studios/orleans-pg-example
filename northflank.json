@@ -9,8 +9,13 @@
           "kind": "Project",
           "ref": "project",
           "spec": {
-            "name": "orleans",
-            "region": "europe-west"
+            "name": "orleans-testing",
+            "region": "us-east1",
+            "description": "",
+            "color": "#57637A",
+            "networking": {
+              "allowedIngressProjects": []
+            }
           }
         },
         {
@@ -331,7 +336,8 @@
   "description": "",
   "options": {
     "autorun": false,
-    "concurrencyPolicy": "allow"
+    "concurrencyPolicy": "allow",
+    "runOnUpdate": false
   },
   "gitops": {
     "repoUrl": "https://github.com/trudan-studios/orleans-pg-example",
