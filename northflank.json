@@ -188,13 +188,13 @@
                         "buildFiles": {},
                         "billing": {
                           "deploymentPlan": "nf-compute-10",
-                          "buildPlan": "nf-compute-200-4"
+                          "buildPlan": "nf-compute-400-16"
                         },
                         "name": "orlean-pg-client",
                         "vcsData": {
                           "projectType": "github",
-                          "accountLogin": "northflank-examples",
-                          "projectUrl": "https://github.com/northflank-examples/orleans-pg-example",
+                          "accountLogin": "trudan-studios",
+                          "projectUrl": "https://github.com/trudan-studios/orleans-pg-example",
                           "projectBranch": "testing"
                         },
                         "ports": [],
@@ -240,13 +240,13 @@
                         "buildFiles": {},
                         "billing": {
                           "deploymentPlan": "nf-compute-10",
-                          "buildPlan": "nf-compute-200-4"
+                          "buildPlan": "nf-compute-400-16"
                         },
                         "name": "orlean-pg-gateway",
                         "vcsData": {
                           "projectType": "github",
-                          "accountLogin": "northflank-examples",
-                          "projectUrl": "https://github.com/northflank-examples/orleans-pg-example",
+                          "accountLogin": "trudan-studios",
+                          "projectUrl": "https://github.com/trudan-studios/orleans-pg-example",
                           "projectBranch": "testing"
                         },
                         "ports": [],
@@ -292,13 +292,13 @@
                         "buildFiles": {},
                         "billing": {
                           "deploymentPlan": "nf-compute-10",
-                          "buildPlan": "nf-compute-200-4"
+                          "buildPlan": "nf-compute-400-16"
                         },
                         "name": "orlean-pg-silo",
                         "vcsData": {
                           "projectType": "github",
-                          "accountLogin": "northflank-examples",
-                          "projectUrl": "https://github.com/northflank-examples/orleans-pg-example",
+                          "accountLogin": "trudan-studios",
+                          "projectUrl": "https://github.com/trudan-studios/orleans-pg-example",
                           "projectBranch": "testing"
                         },
                         "ports": [],
