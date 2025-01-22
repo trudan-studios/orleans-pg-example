@@ -128,7 +128,7 @@
                   "runtimeFiles": {},
                   "billing": {
                     "deploymentPlan": "nf-compute-10",
-                    "buildPlan": "nf-compute-200-4"
+                    "buildPlan": "nf-compute-400-16"
                   },
                   "name": "prepare-db-job",
                   "buildArguments": {},
