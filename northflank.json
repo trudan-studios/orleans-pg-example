@@ -328,18 +328,17 @@
     }
   },
   "name": "orleans-pg-template",
+  "description": "",
   "options": {
     "autorun": false,
-    "concurrencyPolicy": "allow",
-    "runOnUpdate": false
+    "concurrencyPolicy": "allow"
   },
   "gitops": {
-    "repoUrl": "https://github.com/northflank-examples/orleans-pg-example",
+    "repoUrl": "https://github.com/trudan-studios/orleans-pg-example",
     "vcsService": "github",
-    "accountLogin": "northflank-examples",
+    "accountLogin": "trudan-studios",
     "branch": "testing",
     "filePath": "/northflank.json"
   },
-  "description": "",
-  "$schema": "https://api.salvo.sh/v1/schemas/template"
+  "$schema": "https://api.northflank.com/v1/schemas/template"
 }
