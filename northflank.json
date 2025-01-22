@@ -29,7 +29,7 @@
               {
                 "kind": "Addon",
                 "spec": {
-                  "externalAccessEnabled": true,
+                  "externalAccessEnabled": false,
                   "type": "postgresql",
                   "billing": {
                     "replicas": 1,
@@ -43,7 +43,7 @@
                     "postgresqlReadConnectionPoolerReplicas": 2
                   },
                   "name": "orlean-pg",
-                  "version": "latest"
+                  "version": "16"
                 },
                 "ref": "orlean-pg"
               },
