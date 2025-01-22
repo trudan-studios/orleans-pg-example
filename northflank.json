@@ -119,8 +119,8 @@
                     },
                     "vcs": {
                       "projectType": "github",
-                      "accountLogin": "northflank-examples",
-                      "projectUrl": "https://github.com/northflank-examples/orleans-pg-example",
+                      "accountLogin": "trudan-studios",
+                      "projectUrl": "https://github.com/trudan-studios/orleans-pg-example",
                       "projectBranch": "testing"
                     }
                   },
