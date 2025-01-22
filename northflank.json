@@ -33,7 +33,7 @@
                   "type": "postgresql",
                   "billing": {
                     "replicas": 1,
-                    "storage": 4096,
+                    "storage": 6144,
                     "storageClass": "ssd",
                     "deploymentPlan": "nf-compute-20"
                   },
